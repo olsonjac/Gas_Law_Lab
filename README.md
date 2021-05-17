@@ -1,6 +1,8 @@
 # IDEAL GAS LAWS LAB
 The students were tasked with creating air bags using ziploc bags and two main reactants(Hydrochloric Acid and Sodium Bicarbonate)
  This script was written to quickly run through a host of stoichiometric and gas law equations to insure that my students work was both accurate and safe to implement within the scope of our lab.
+ The reaction taking place is represented below.
+  - HCl + NaHCO3 >>> CO2 + H2O + NaCl
  The script begins by asking for the starting volume and mass of the reactants and then calculates the following values:
 1. Moles of both reactants 
 2. Which reactant is the limiting reactant 
